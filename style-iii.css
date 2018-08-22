@@ -1,0 +1,46 @@
+h1 {
+
+    font-family: 'Indie Flower', cursive;    
+    letter-spacing: 1;
+    margin-left:100px;
+    margin-top:15px;
+}
+
+p {
+
+    font-family: 'Indie Flower', cursive;
+    font-size: x-large;
+    line-height: 2;
+    letter-spacing: 1;
+    width: 80%;
+    margin: auto;
+    color: #6845b8;
+
+}
+
+.btn {
+
+    margin-top:50px;
+    margin-left:50px;
+
+}
+
+.ec1 {
+
+    margin-left:115px;
+
+}
+
+button:hover {
+
+    color:rgb(109, 86, 212);
+
+}
+
+@media screen and (max-width: 700px) {
+
+    body {
+
+        background-color:yellow; }
+
+        }
